@@ -1,0 +1,25 @@
+{
+  "name": "referral_nfts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sliman4/referral_nfts.git"
+  },
+  "author": "Slimedragon",
+  "license": "MIT OR Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Sliman4/referral_nfts/issues"
+  },
+  "homepage": "https://github.com/Sliman4/referral_nfts#readme",
+  "dependencies": {
+    "canvas": "^2.11.2",
+    "express": "^4.19.2",
+    "jpeg-js": "^0.4.4"
+  }
+}
